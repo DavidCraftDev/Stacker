@@ -53,4 +53,4 @@ Bugs and feature ideas can be submitted in the [issues](https://github.com/ZoeyV
 
 ## License
 
-Mozilla Public License 2.0 Copyright © 2021-2024 ZoeyVid
+[GNU Affero General Public License v3.0](https://github.com/ZoeyVid/Stacker/blob/stable/COPYING)
